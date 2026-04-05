@@ -80,6 +80,14 @@
   font-weight: 600;
   color: var(--accent-color);
   font-size: 0.95rem;
+  margin-bottom: 0.3rem;
+}
+
+.location {
+  color: var(--light-text);
+  font-size: 0.85rem;
+  font-style: italic;
+  margin-bottom: 0.5rem;
 }
 
 .period {

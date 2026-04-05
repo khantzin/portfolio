@@ -13,6 +13,7 @@ export default function Experience() {
               <div className="timeline-content">
                 <h3>{job.title}</h3>
                 <p className="company">{job.company}</p>
+                <p className="location">{job.location}</p>
                 <p className="period">{job.period}</p>
                 <ul className="highlights">
                   {job.highlights.map((highlight, idx) => (

@@ -22,6 +22,7 @@ export const portfolioData = {
       id: 1,
       title: 'Senior Java Developer',
       company: 'FPT Software Company Limited',
+      location: 'Client: Singapore International Airline',
       period: 'Apr 2024 – Present',
       highlights: [
         'Developed and maintained mission-critical backend services supporting airline operations',
@@ -36,6 +37,7 @@ export const portfolioData = {
       id: 2,
       title: 'Senior Full-Stack Developer',
       company: 'Blue Stone Solution Co., Ltd',
+      location: 'Finance & Insurance Domain',
       period: 'Nov 2021 – Mar 2024',
       highlights: [
         'Led development of enterprise applications in finance and insurance domains',
@@ -50,6 +52,7 @@ export const portfolioData = {
       id: 3,
       title: 'Full-Stack Developer',
       company: 'Myanmar Information Technology (MIT)',
+      location: 'ERP Solutions - 100+ Clients',
       period: 'Apr 2017 – Sep 2021',
       highlights: [
         'Developed ERP systems used by over 100 clients',

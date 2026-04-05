@@ -54,13 +54,14 @@
 }
 
 .client-badge {
-  background-color: var(--accent-color);
+  background-color: #0369a1;
   color: white;
   padding: 6px 12px;
   border-radius: 20px;
   font-size: 0.8rem;
   font-weight: 600;
   white-space: nowrap;
+  cursor: help;
 }
 
 .project-period {

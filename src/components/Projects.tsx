@@ -11,7 +11,7 @@ export default function Projects() {
             <div key={project.id} className="project-card">
               <div className="project-header">
                 <h3>{project.title}</h3>
-                <span className="client-badge">{project.client}</span>
+                <span className="client-badge" title={project.client}>{project.client}</span>
               </div>
               <p className="project-period">{project.period}</p>
               <p className="project-description">{project.description}</p>
