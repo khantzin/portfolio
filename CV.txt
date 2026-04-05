@@ -1,0 +1,159 @@
+KHANT ZIN WIN
+
+Senior Java Developer
+
+Phone: +84 356387412
+
+Email: kaolin295@gmail.com
+
+LinkedIn: LinkedIn Profile
+
+
+
+PROFESSIONAL SUMMARY
+
+Senior Backend Engineer with 9+ years of experience building enterprise-grade Java applications across aviation, finance, and ERP domains. Currently contributing to the large-scale airline operational system for Singapore International Airline. Specialized in Spring Boot, Microservices architecture, and cloud-based systems. Proven ability to deliver scalable, high-performance backend services and collaborate with cross-border teams to meet business and technical requirements.
+
+
+
+SKILLS
+
+Programming: Java, SQL, Typescript, Javascript
+
+Frameworks: Spring Boot, Spring Cloud
+
+Frontend: Angular (AngularJS, Angular 13)
+
+Cloud & DevOps: AWS (S3, SNS, SQS), Docker, Jenkins, OpenShift
+
+Databases: MySQL, PostgreSQL, MSSQL Server
+
+Tools: Git, Bitbucket, GitLab, SonarQube, Splunk
+
+Architecture: Microservices, REST APIs, Distributed Systems
+
+
+
+PROFESSIONAL EXPERIENCE
+
+Senior Java Developer
+
+FPT Software Company Limited
+
+Apr 2024 – Present
+
+Developed and maintained mission-critical backend services supporting airline operations.
+
+Designed scalable RESTful APIs using Java and Spring Boot.
+
+Optimized system performance and ensured high availability.
+
+Integrated AWS services (S3, SNS, SQS) for distributed processing.
+
+Collaborated with Singapore-based stakeholders, DevOps, and product teams.
+
+Coordinated cross-team integration of system modules.
+
+Supported production deployments and release processes.
+
+Designed and implemented AI-assisted SDLC workflows using Jira and GitHub Copilot.
+
+
+
+Senior Full-Stack Developer
+
+Blue Stone Solution Co., Ltd
+
+Nov 2021 – Mar 2024
+
+Led development of enterprise applications in finance and insurance domains.
+
+Designed backend services using Java and Spring Boot.
+
+Developed frontend applications using Angular.
+
+Managed CI/CD pipelines using Jenkins and Docker.
+
+Collaborated with stakeholders to define system architecture and requirements.
+
+Conducted code reviews and mentored junior developers.
+
+
+
+Full-Stack Developer
+
+Myanmar Information Technology (MIT)Apr 2017 – Sep 2021
+
+Developed ERP systems used by over 100 clients.
+
+Built backend services using Java and integrated with systems like SAP.
+
+Worked closely with product owners to gather and refine requirements.
+
+Participated in Agile/Scrum development processes.
+
+Supported system integration and deployment.
+
+
+
+PROJECTS
+
+Airline Operations System
+
+Client: Singapore International Airlines 
+
+Developed a large-scale system for flight scheduling, aircraft maintenance, and flight coordination.
+
+ Built scalable backend services using Spring Boot. 
+
+Ensured system reliability for mission-critical operations.
+
+Microfinance System (Mifos)
+
+Developed financial platform for loan, savings, and transaction management.
+
+Integrated Mifos with Odoo ERP system.
+
+Supported microfinance institutions with scalable solutions.
+
+Insurance System
+
+Built a digital platform for managing policies, claims, and customer data.
+
+Implemented backend services and system integrations.
+
+ERP System
+
+Developed centralized ERP platform for accounting, inventory, and reporting.
+
+Supported multiple clients with customizable modules.
+
+
+
+EDUCATION
+
+Bachelor of Science (Physics)Yadanabon University2011 – 2013
+
+
+
+CERTIFICATIONS
+
+Microservices with Spring Boot and Spring Cloud – Udemy (2022 – 2023)
+
+Professional Web Developer Course – Fairway Technology Training Center (2017)
+
+C++ and Java Professional Course (2016)
+
+
+
+ADDITIONAL INFORMATION
+
+9+ years of professional experience in software development
+
+Experience working with international (Singapore-based) teams
+
+Strong problem-solving and communication skills
+
+
+
+
